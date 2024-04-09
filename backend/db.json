@@ -1,12 +1,19 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "felipe silva",
-        "email": "fp@gmail.com"
+  "users": [
+    {
+      "id": 1,
+      "name": "felipe silva",
+      "email": "fp@gmail.com"
     },
     {
-        "id": 2,
-        "name": "julia oliveira",
-        "email": "jloli@gmail.com"
-    }]
+      "id": 2,
+      "name": "julia oliveira",
+      "email": "jloli@gmail.com"
+    },
+    {
+      "name": "leonardo alencar",
+      "email": "alencarleo27@gmail.com",
+      "id": 3
+    }
+  ]
 }
